@@ -1,0 +1,52 @@
+#location of the training file
+#trainFile=cornell_Train_proj3_1.tsv
+trainFileList = cornell_Train_proj3_1.tsv,cornell_Train_proj3_2.tsv
+#location where you would like to save (serialize to) your
+#classifier; adding .gz at the end automatically gzips the file,
+#making it faster and smaller
+serializeTo = ner-model-cornell-project-klc.ser.gz
+
+#structure of your training file; this tells the classifier
+#that the word is in column 0 and the correct answer is in
+#column 1
+map = word=0,answer=1
+
+#these are the features we'd like to train with
+#some are discussed below, the rest can be
+#understood by looking at NERFeatureFactory
+useClassFeature=true
+useWord=true
+useNGrams=true
+#no ngrams will be included that do not contain either the
+#beginning or end of the word
+noMidNGrams=true
+useDisjunctive=true
+maxNGramLeng=6
+usePrev=true
+useNext=true
+useSequences=true
+usePrevSequences=true
+maxLeft=1
+#the next 4 deal with word shape features
+useTypeSeqs=true
+useTypeSeqs2=true
+useTypeySequences=true
+useOccurrencePatterns=true
+useLastRealWord=true
+useNextRealWord=true
+normalize=true
+wordShape=dan2useLC
+disjunctionWidth=4
+type=crf
+
+readerAndWriter=edu.stanford.nlp.sequences.ColumnDocumentReaderAndWriter
+
+useObservedSequencesOnly=true
+
+sigma = 20
+useQN = true
+QNsize = 25
+
+# makes it go faster
+featureDiffThresh=0.05
+
