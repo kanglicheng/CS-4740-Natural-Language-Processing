@@ -1,0 +1,595 @@
+
+<lexelt item="activate.v">
+<sense id="38201" source="ws" synset="activate actuate energize start stimulate" gloss="to initiate action in; make active."/>
+<sense id="38202" source="ws" synset="activate" gloss="in chemistry, to make more reactive, as by heating."/>
+<sense id="38203" source="ws" synset="activate assign ready" gloss="to assign (a military unit) to active status."/>
+<sense id="38204" source="ws" synset="activate" gloss="in physics, to cause radioactive properties in (a substance)."/>
+<sense id="38205" source="ws" synset="activate aerate oxygenate" gloss="to cause decomposition in (sewage) by aerating."/>
+</lexelt>
+
+
+<lexelt item="add.v">
+<sense id="42601" source="ws" synset="add" gloss="to combine (something) with something else, often to increase the amount or number of the latter. "I added herbs to the recipe" ; "He wants to add this stamp to his collection"."/>
+<sense id="42602" source="ws" synset="add sum tally total" gloss="to find the total of (often fol. by up). "Add up the numbers"."/>
+<sense id="42603" source="ws" synset="add append supplement tack on" gloss="to say or write beyond what has been said or written."/>
+<sense id="42604" source="ws" synset="add total" gloss="to perform the mathematical operation of addition."/>
+<sense id="42605" source="ws" synset="add figure" gloss="to make the correct total or expected result (fol. by up). "His quitting doesn't add up""/>
+<sense id="42606" source="ws" synset="add" gloss="to increase (fol. by to)."/>
+</lexelt>
+
+
+<lexelt item="appear.v">
+<sense id="190901" source="ws" synset="appear arise emerge show" gloss="to come into view; become visible."/>
+<sense id="190902" source="ws" synset="appear look seem" gloss="to seem. "He appears smart, but I have doubts"."/>
+<sense id="190903" source="ws" synset="appear come_out" gloss="to come before the public, as a book or performer."/>
+</lexelt>
+
+
+<lexelt item="argument.n">
+<sense id="argument%1:09:00::" source="wn" synset="argument independent_variable " gloss="(a variable in a logical or mathematical expression whose value determines the dependent variable; if f(x)=y, x is the independent variable)"/>
+<sense id="argument%1:10:00::" source="wn" synset="argument debate " gloss="(a discussion in which reasons are advanced for and against some proposition or proposal; "the argument over foreign aid goes on and on")"/>
+<sense id="argument%1:10:01::" source="wn" synset="argument literary_argument " gloss="(a summary of the subject or plot of a literary work or play or movie; "the editor added the argument to the poem")"/>
+<sense id="argument%1:10:02::" source="wn" synset="argument statement " gloss="(a fact or assertion offered as evidence that something is true; "it was a strong argument that his hypothesis was true")"/>
+<sense id="argument%1:10:03::" source="wn" synset="controversy contention contestation tilt argument arguing " gloss="(a dispute where there is strong disagreement; "they were involved in a violent argument")"/>
+</lexelt>
+
+
+<lexelt item="arm.n">
+<sense id="arm%1:06:00::" source="wn" synset="sleeve arm " gloss="(the part of a garment that is attached at armhole and provides a cloth covering for the arm)"/>
+<sense id="arm%1:06:01::" source="wn" synset="weapon arm weapon_system " gloss="(instrument used in fighting or hunting; "he was licensed to carry a weapon")"/>
+<sense id="arm%1:06:02::" source="wn" synset="arm " gloss="(the part of an armchair or sofa that supports the elbow and forearm of a seated person)"/>
+<sense id="arm%1:06:03::" source="wn" synset="arm branch " gloss="(any projection that is thought to resemble an arm; "the arm of the record player"; "an arm of the sea"; "a branch of the sewer")"/>
+<sense id="arm%1:08:00::" source="wn" synset="arm " gloss="(a human limb; technically the part of the superior limb between the shoulder and the elbow but commonly used to refer to the whole superior limb)"/>
+<sense id="arm%1:14:00::" source="wn" synset="branch subdivision arm " gloss="(an administrative division of some larger or more complex organization; "a branch of Congress")"/>
+</lexelt>
+
+
+<lexelt item="ask.v">
+<sense id="238101" source="ws" synset="ask inquire_of query question" gloss="to put a question to. "He asked me how to do it"."/>
+<sense id="238102" source="ws" synset="ask" gloss="to request of. "I asked him to close the window"."/>
+<sense id="238103" source="ws" synset="ask demand require" gloss="to demand or expect. "All I ask is a little respect"."/>
+<sense id="238104" source="ws" synset="ask invite" gloss="to invite. "He asked me to the movies"."/>
+<sense id="238105" source="ws" synset="ask inquire" gloss="to question; inquire. "She asked about you"."/>
+<sense id="238106" source="ws" synset="ask request" gloss="to request or seek (usu. fol. by for). "He asked for some water"."/>
+</lexelt>
+
+
+<lexelt item="atmosphere.n">
+<sense id="atmosphere%1:07:00::" source="wn" synset="air aura atmosphere " gloss="(a distinctive but intangible quality surrounding a person or thing: "an air of mystery"; "the house had a neglected air"; "an atmosphere of defeat pervaded the candidate's headquarters"; "the place had an aura of romance")"/>
+<sense id="atmosphere%1:15:00::" source="wn" synset="atmosphere " gloss="(the mass of air surrounding the Earth; "there was great heat as the comet entered the atmosphere")"/>
+<sense id="atmosphere%1:17:00::" source="wn" synset="atmosphere " gloss="(the envelope of gases surrounding any celestial body)"/>
+<sense id="atmosphere%1:23:00::" source="wn" synset="standard_atmosphere atmosphere atm standard_pressure " gloss="(a unit of pressure: the pressure that will support a column of mercury 760 mm high at sea level and 0 degrees centigrade)"/>
+<sense id="atmosphere%1:26:00::" source="wn" synset="atmosphere atmospheric_state " gloss="(the weather or climate at some place; "the atmosphere was thick with fog")"/>
+<sense id="atmosphere%1:26:01::" source="wn" synset="atmosphere ambiance ambience " gloss="(a particular environment or surrounding influence; "there was an atmosphere of excitement")"/>
+</lexelt>
+
+
+<lexelt item="audience.n">
+<sense id="audience%1:10:00::" source="wn" synset="consultation audience interview " gloss="(a conference (usually with someone important); "he had a consultation with the judge"; "he requested an audience with the king")"/>
+<sense id="audience%1:14:00::" source="wn" synset="audience " gloss="(a gathering of spectators or listeners at a (usually public) performance; "the audience applauded"; "someone in the audience began to cough")"/>
+<sense id="audience%1:14:01::" source="wn" synset="audience " gloss="(the part of the general public interested in a source of information or entertainment; "every artist needs an audience"; "the broadcast reached an audience of millions")"/>
+<sense id="audience%1:26:00::" source="wn" synset="hearing audience " gloss="(an opportunity to state your case and be heard; "they condemned him without a hearing"; "he saw that he had lost his audience")"/>
+</lexelt>
+
+
+<lexelt item="bank.n">
+<sense id="bank%1:04:00::" source="wn" synset="bank " gloss="(a flight maneuver; aircraft tips laterally about its longitudinal axis (especially in turning); "the plane went into a steep bank")"/>
+<sense id="bank%1:06:00::" source="wn" synset="bank bank_building " gloss="(a building in which commercial banking is transacted; "the bank is on the corner of Nassau and Witherspoon")"/>
+<sense id="bank%1:06:01::" source="wn" synset="savings_bank coin_bank money_box bank " gloss="(a container (usually with a slot in the top) for keeping money at home; "the coin bank was empty")"/>
+<sense id="bank%1:14:00::" source="wn" synset="depository_financial_institution bank banking_concern banking_company " gloss="(a financial institution that accepts deposits and channels the money into lending activities; "he cashed a check at the bank"; "that bank holds the mortgage on my home")"/>
+<sense id="bank%1:14:01::" source="wn" synset="bank " gloss="(an arrangement of similar objects in a row or in tiers; "he operated a bank of switches")"/>
+<sense id="bank%1:17:00::" source="wn" synset="bank " gloss="(a long ridge or pile; "a huge bank of earth")"/>
+<sense id="bank%1:17:01::" source="wn" synset="bank " gloss="(sloping land (especially the slope beside a body of water); "they pulled the canoe up on the bank"; "he sat on the bank of the river and watched the currents")"/>
+<sense id="bank%1:17:02::" source="wn" synset="bank cant camber " gloss="(a slope in the turn of a road or track; the outside is higher than the inside in order to reduce the effects of centrifugal force)"/>
+<sense id="bank%1:21:00::" source="wn" synset="bank " gloss="(a supply or stock held in reserve for future use (especially in emergencies))"/>
+<sense id="bank%1:21:01::" source="wn" synset="bank " gloss="(the funds held by a gambling house or the dealer in some gambling games; "he tried to break the bank at Monte Carlo")"/>
+</lexelt>
+
+
+<lexelt item="begin.v">
+<sense id="369201" source="ws" synset="begin commence set_about start" gloss="to perform the first step in a process; start."/>
+<sense id="369202" source="ws" synset="begin commence originate start" gloss="to come into being."/>
+<sense id="369203" source="ws" synset="begin commence kick_off lead open set_about start" gloss="to perform the first step of (something); start."/>
+<sense id="369204" source="ws" synset="begin inaugurate initiate start undertake" gloss="to cause to come into being."/>
+</lexelt>
+
+
+<lexelt item="climb.v">
+<sense id="770001" source="ws" synset="climb ascend" gloss="to move upward; go towards the top; ascend."/>
+<sense id="770002" source="ws" synset="climb ascend" gloss="to slope upward."/>
+<sense id="770003" source="ws" synset="climb creep twine" gloss="to twist around and up a tall support. "The ivy climbed to the balcony"."/>
+<sense id="770004" source="ws" synset="climb" gloss="to strive to become more important, wealthier, or more successful, or to become so."/>
+<sense id="770005" source="ws" synset="climb ascend" gloss="to go up; ascend. "Let's climb the hill"."/>
+</lexelt>
+
+
+<lexelt item="decide.v">
+<sense id="1067501" source="ws" synset="decide conclude determine negotiate resolve settle solve" gloss="to arrive at a conclusion about or a settlement of. "We decided our dispute"."/>
+<sense id="1067502" source="ws" synset="decide conclude determine finish resolve terminate" gloss="to bring to a definite end. "The game was decided by a shot in the final second"."/>
+<sense id="1067503" source="ws" synset="decide choose determine resolve settle" gloss="to make up one's mind about something; resolve to do something."/>
+<sense id="1067504" source="ws" synset="decide arbitrate judge settle" gloss="to resolve a conflict or dispute."/>
+</lexelt>
+
+
+<lexelt item="degree.n">
+<sense id="degree%1:07:00::" source="wn" synset="degree grade level " gloss="(a position on a scale of intensity or amount or quality: "a moderate degree of intelligence"; "a high level of care is required"; "it is all a matter of degree")"/>
+<sense id="degree%1:07:01::" source="wn" synset="degree " gloss="(the seriousness of something (e.g., a burn or crime); "murder in the second degree"; "a second degree burn")"/>
+<sense id="degree%1:09:00::" source="wn" synset="degree " gloss="(the highest power of a term or variable)"/>
+<sense id="degree%1:10:00::" source="wn" synset="academic_degree degree " gloss="(an award conferred by a college or university signifying that the recipient has satisfactorily completed a course of study; "he earned his degree at Princeton summa cum laude")"/>
+<sense id="degree%1:23:00::" source="wn" synset="degree arcdegree " gloss="(a measure for arcs and angles; "there are 360 degrees in a circle")"/>
+<sense id="degree%1:23:03::" source="wn" synset="degree " gloss="(a unit of temperature on a specified scale; "the game was played in spite of the 40-degree temperature")"/>
+<sense id="degree%1:26:01::" source="wn" synset="degree level stage point " gloss="(a specific identifiable position in a continuum or series or especially in a process; "a remarkable degree of frankness"; "at what stage are the social sciences?")"/>
+</lexelt>
+
+
+<lexelt item="difference.n">
+<sense id="difference%1:07:00::" source="wn" synset="difference " gloss="(the quality of being unlike or dissimilar: "there are many differences between jazz and rock")"/>
+<sense id="difference%1:10:00::" source="wn" synset="dispute difference difference_of_opinion conflict " gloss="(a disagreement or argument about something important; "he had a dispute with his wife"; "there were irreconcilable differences"; "the familiar conflict between Republicans and Democrats")"/>
+<sense id="difference%1:11:00::" source="wn" synset="deviation divergence departure difference " gloss="(a variation that deviates from the standard or norm; "the deviation from the mean")"/>
+<sense id="difference%1:23:00::" source="wn" synset="remainder difference " gloss="(the number that remains after subtraction; the number that when added to the subtrahend gives the minuend)"/>
+<sense id="difference%1:24:00::" source="wn" synset="difference " gloss="(a significant change; "the difference in her is amazing"; "his support made a real difference")"/>
+</lexelt>
+
+
+<lexelt item="different.a">
+<sense id="different%3:00:00::" source="wn" synset="different " gloss="(unlike in nature or quality or form or degree; "took different approaches to the problem"; "came to a different conclusion"; "different parts of the country"; "on different sides of the issue"; "this meeting was different from the earlier one")"/>
+<sense id="different%3:00:02::" source="wn" synset="unlike dissimilar different " gloss="(not like; marked by dissimilarity; "for twins they are very unlike"; "people are profoundly different")"/>
+<sense id="different%5:00:00:other:00" source="wn" synset="another(a) different " gloss="(distinctly separate from the first; "that's another (or different) issue altogether")"/>
+<sense id="different%5:00:00:unusual:00" source="wn" synset="different " gloss="(differing from all others; not ordinary; "advertising that strives continually to be different"; "this new music is certainly different but I don't really like it")"/>
+<sense id="different%5:00:01:other:00" source="wn" synset="different " gloss="(distinct or separate; "each interviewed different members of the community")"/>
+</lexelt>
+
+
+<lexelt item="difficulty.n">
+<sense id="difficulty%1:04:00::" source="wn" synset="trouble difficulty " gloss="(an effort that is inconvenient; "I went to a lot of trouble"; "he won without any trouble"; "had difficulty walking"; "finished the test only with great difficulty")"/>
+<sense id="difficulty%1:07:00::" source="wn" synset="difficulty difficultness " gloss="(the quality of being difficult; "they agreed about the difficulty of the climb")"/>
+<sense id="difficulty%1:09:02::" source="wn" synset="difficulty " gloss="(a factor causing trouble in achieving a positive result or tending to produce a negative result; "serious difficulties were encountered in obtaining a pure reagent")"/>
+<sense id="difficulty%1:26:00::" source="wn" synset="difficulty " gloss="(a situation or condition almost beyond one's ability to deal with and requiring great effort to bear or overcome: "grappling with financial difficulties")"/>
+</lexelt>
+
+
+<lexelt item="disc.n">
+<sense id="disc%1:06:00::" source="wn" synset="disk disc " gloss="(a thin flat circular plate)"/>
+<sense id="disc%1:06:01::" source="wn" synset="phonograph_record phonograph_recording record disk disc platter " gloss="(sound recording consisting of a disc with continuous grooves; formerly used to reproduce music by rotating while a phonograph needle tracked in the grooves)"/>
+<sense id="disc%1:06:03::" source="wn" synset="magnetic_disk magnetic_disc disk disc " gloss="((computer science) a memory device consisting of a flat disk covered with a magnetic coating on which information is stored)"/>
+<sense id="disc%1:25:00::" source="wn" synset="disk disc saucer " gloss="(something with a round shape like a flat circular plate)"/>
+</lexelt>
+
+
+<lexelt item="eat.v">
+<sense id="1297001" source="ws" synset="eat consume ingest swallow" gloss="to consume (food) through the mouth."/>
+<sense id="1297002" source="ws" synset="eat corrode deteriorate wear" gloss="to destroy through wearing away; corrode. "Rust eats metal"."/>
+<sense id="1297003" source="ws" synset="eat consume devour swallow" gloss="to ravage or consume in the manner of eating. "a budget that was eaten by unexpected expenses"."/>
+<sense id="1297004" source="ws" synset="eat bother bug gnaw trouble" gloss="to bother or disturb. "What's eating them"?"/>
+<sense id="1297005" source="ws" synset="eat" gloss="(informal) to bear the cost of. "He had to eat the unpaid bills"."/>
+<sense id="1297006" source="ws" synset="eat fare feed sup" gloss="to partake of food."/>
+<sense id="1297007" source="ws" synset="eat corrode deteriorate" gloss="to corrode. "Rust ate through the metal"."/>
+</lexelt>
+
+
+<lexelt item="encounter.v">
+<sense id="1353101" source="ws" synset="encounter bump_into come_across run_across" gloss="to meet or come upon, esp. suddenly or by chance."/>
+<sense id="1353102" source="ws" synset="encounter battle engage meet" gloss="to meet or confront in battle or conflict."/>
+<sense id="1353103" source="ws" synset="encounter hit" gloss="to meet with, or come up against, esp. unexpectedly. "I encountered some unforeseen difficulties"."/>
+<sense id="1353104" source="ws" synset="encounter meet" gloss="to meet, esp. in conflict or unexpectedly."/>
+</lexelt>
+
+
+<lexelt item="expect.v">
+<sense id="1440301" source="ws" synset="expect communicate convey" gloss="to hope for or look forward to with some reason to believe in fulfillment. "I expect him at noon"; "I expect success"."/>
+<sense id="1440302" source="ws" synset="expect guess presume reckon" gloss="(informal) to guess or suppose. "I expect you would like a drink of water after such hard exercise"."/>
+<sense id="1440303" source="ws" synset="expect" gloss="to be pregnant. "She is expecting"."/>
+</lexelt>
+
+
+<lexelt item="express.v">
+<sense id="1446801" source="ws" synset="express communicate convey" gloss="to make (ideas, thoughts, or feelings) known by saying or writing, or by creating art works."/>
+<sense id="1446802" source="ws" synset="express communicate convey verbalize voice" gloss="to make known the thoughts or feelings of (oneself)."/>
+<sense id="1446803" source="ws" synset="express" gloss="to send by rapid transport."/>
+<sense id="1446804" source="ws" synset="express evince reveal show" gloss="to show or make manifest."/>
+</lexelt>
+
+
+<lexelt item="hear.v">
+<sense id="1892101" source="ws" synset="hear" gloss="to perceive with the ears."/>
+<sense id="1892102" source="ws" synset="hear learn" gloss="to be informed about; learn. "I heard he was coming back to town"."/>
+<sense id="1892103" source="ws" synset="hear listen_to" gloss="to listen to carefully. "Did you really hear what he told you"?"/>
+<sense id="1892104" source="ws" synset="hear" gloss="to give formal audience to, esp. in a court of law. "The judge wouldn't hear our case"."/>
+<sense id="1892105" source="ws" synset="hear" gloss="to have the ability to perceive sound."/>
+<sense id="1892106" source="ws" synset="hear" gloss="to receive information or greetings from another. "He heard from his sister yesterday"."/>
+<sense id="1892107" source="ws" synset="hear agree_to consent_to stand_for toleratw" gloss="to listen with agreement or consent (usu. fol. by of). "He would not hear of my paying the check"."/>
+</lexelt>
+
+
+<lexelt item="hot.a">
+<sense id="hot%3:00:01::" source="wn" synset="hot " gloss="(used of physical heat; having a high or higher than desirable temperature or giving off heat or feeling or causing a sensation of heat or burning; "hot stove"; "hot water"; "a hot August day"; "a hot stuffy room"; "she's hot and tired"; "a hot forehead")"/>
+<sense id="hot%3:00:02::" source="wn" synset="hot " gloss="(extended meanings; especially of psychological heat; marked by intensity or vehemence especially of passion or enthusiasm; "a hot temper"; "a hot topic"; "a hot new book"; "a hot love affair"; "a hot argument")"/>
+<sense id="hot%5:00:00:active:01" source="wn" synset="hot " gloss="((informal) marked by excited activity; "a hot week on the stock market")"/>
+<sense id="hot%5:00:00:charged:00" source="wn" synset="hot live " gloss="((electricity) charged or energized with electricity; "a hot wire"; "a live wire")"/>
+<sense id="hot%5:00:00:eager:00" source="wn" synset="hot " gloss="(having or showing great eagerness or enthusiasm; "hot for travel")"/>
+<sense id="hot%5:00:00:fast:01" source="wn" synset="blistering hot red-hot " gloss="(very fast; "a blistering pace"; "got off to a hot start"; "in hot pursuit"; "a red-hot line drive")"/>
+<sense id="hot%5:00:00:fresh:01" source="wn" synset="hot " gloss="(newly made; "a hot scent")"/>
+<sense id="hot%5:00:00:good:01" source="wn" synset="hot " gloss="(very good; often used in the negative; "he's hot at math but not so hot at history")"/>
+<sense id="hot%5:00:00:illegal:00" source="wn" synset="hot " gloss="((informal) recently stolen or smuggled; "hot merchandise"; "a hot car")"/>
+<sense id="hot%5:00:00:lucky:00" source="wn" synset="hot " gloss="(having or bringing unusually good luck; "hot at craps"; "the dice are hot tonight")"/>
+<sense id="hot%5:00:00:near:00" source="wn" synset="warm hot " gloss="(of a seeker; near to the object sought; "you're getting warm"; "hot on the trail")"/>
+<sense id="hot%5:00:00:new:00" source="wn" synset="hot red-hot " gloss="(newest or most recent; "news hot off the press"; "red-hot information")"/>
+<sense id="hot%5:00:00:popular:00" source="wn" synset="hot " gloss="((informal) very popular or successful; "one of the hot young talents"; "cabbage patch dolls were hot last season")"/>
+<sense id="hot%5:00:00:pungent:00" source="wn" synset="gingery hot peppery spicy " gloss="(having a piquant burning taste of spices or peppers; "gingery Chinese food"; "hot peppers"; "hot curry"; "corn chips with peppery salsa"; "spicy tomato sauce")"/>
+<sense id="hot%5:00:00:radioactive:00" source="wn" synset="hot " gloss="(having or dealing with dangerously high levels of radioactivity; "hot fuel rods"; "a hot laboratory")"/>
+<sense id="hot%5:00:00:sexy:00" source="wn" synset="hot " gloss="(sexually excited or exciting; "was hot for her"; "hot pants")"/>
+<sense id="hot%5:00:00:skilled:00" source="wn" synset="hot " gloss="((informal) performed or performing with unusually great skill and daring and energy; "a hot drummer"; "he's hot tonight")"/>
+<sense id="hot%5:00:00:unpleasant:00" source="wn" synset="hot " gloss="(very unpleasant or even dangerous; "make it hot for him"; "in the hot seat"; "in hot water")"/>
+<sense id="hot%5:00:00:violent:00" source="wn" synset="hot raging " gloss="(characterized by violent and forceful activity or movement; very intense; "the fighting became hot and heavy"; "a hot engagement"; "a raging battle"; "the river became a raging torrent")"/>
+<sense id="hot%5:00:00:wanted:00" source="wn" synset="hot " gloss="(wanted by the police; "a hot suspect")"/>
+<sense id="hot%5:00:00:warm:03" source="wn" synset="hot " gloss="((color) bold and intense; "hot pink")"/>
+<sense id="hot%5:00:02:fast:01" source="wn" synset="hot " gloss="(capable of quick response and great speed; "a hot sports car")"/>
+</lexelt>
+
+
+<lexelt item="image.n">
+<sense id="image%1:06:00::" source="wn" synset="picture image icon ikon " gloss="(a visual representation of an object or scene or person produced on a surface; "they showed us the pictures of their wedding"; "a movie is a series of images projected so rapidly that the eye integrates them")"/>
+<sense id="image%1:06:01::" source="wn" synset="effigy image simulacrum " gloss="(a representation of a person (especially in the form of sculpture); "the coin bears an effigy of Lincoln"; "the emperor's tomb had his image carved in stone")"/>
+<sense id="image%1:07:00::" source="wn" synset="persona image " gloss="((Jungian psychology) a personal facade one presents to the world; "a public image is as fragile as Humpty Dumpty")"/>
+<sense id="image%1:09:00::" source="wn" synset="image mental_image " gloss="(an iconic mental representation; "her imagination forced images upon her too awful to contemplate")"/>
+<sense id="image%1:09:02::" source="wn" synset="prototype paradigm epitome image " gloss="(a standard or typical example; "he is the prototype of good breeding"; "he provided America with an image of the good father")"/>
+<sense id="image%1:10:00::" source="wn" synset="trope figure_of_speech figure image " gloss="(language used in a figurative or nonliteral sense)"/>
+<sense id="image%1:18:00::" source="wn" synset="double image look-alike " gloss="(someone who closely resembles a famous person (especially an actor); "he could be Gingrich's double"; "she's the very image of her mother")"/>
+</lexelt>
+
+
+<lexelt item="important.a">
+<sense id="important%3:00:00::" source="wn" synset="important of_import " gloss="(of great significance or value; "important people"; "the important questions of the day")"/>
+<sense id="important%3:00:02::" source="wn" synset="crucial important " gloss="(of extreme importance; vital to the resolution of a crisis; "a crucial moment in his career"; "a crucial election"; "a crucial issue for women")"/>
+<sense id="important%3:00:04::" source="wn" synset="significant important " gloss="(important in effect or meaning; "a significant change in tax laws"; "a significant change in the Constitution"; "a significant contribution"; "significant details"; "statistically significant")"/>
+<sense id="important%5:00:00:immodest:02" source="wn" synset="important " gloss="(having or suggesting a consciousness of high position; "recited the decree with an important air"; "took long important strides in the direction of his office")"/>
+<sense id="important%5:00:00:influential:00" source="wn" synset="authoritative important " gloss="(having authority or ascendancy or influence; "an important official"; "the captain's authoritative manner")"/>
+</lexelt>
+
+
+<lexelt item="interest.n">
+<sense id="interest%1:04:01::" source="wn" synset="pastime interest " gloss="(a subject or pursuit that occupies one's time and thoughts (usually pleasantly): "sailing is her favorite pastime"; "his main pastime is gambling"; "he counts reading among his interests"; "they criticized the boy for his limited interests")"/>
+<sense id="interest%1:07:01::" source="wn" synset="sake interest " gloss="(a reason for wanting something done; "for your sake"; "died for the sake of his country"; "in the interest of safety"; "in the common interest")"/>
+<sense id="interest%1:07:02::" source="wn" synset="interest interestingness " gloss="(the power of attracting or holding one's interest (because it is unusual or exciting etc.); "they said nothing of great interest"; "primary colors can add interest to a room")"/>
+<sense id="interest%1:09:00::" source="wn" synset="interest involvement " gloss="(a sense of concern with and curiosity about someone or something; "an interest in music")"/>
+<sense id="interest%1:14:00::" source="wn" synset="interest interest_group " gloss="((usually plural) a social group whose members control some field of activity and who have common aims; "the iron interests stepped up production")"/>
+<sense id="interest%1:21:00::" source="wn" synset="interest " gloss="(a fixed charge for borrowing money; usually a percentage of the amount borrowed; "how much interest do you pay on your mortgage?")"/>
+<sense id="interest%1:21:03::" source="wn" synset="interest stake " gloss="(a right or legal share of something; a financial involvement with something; "they have interests all over the world"; "a stake in the company's future")"/>
+</lexelt>
+
+
+<lexelt item="judgment.n">
+<sense id="judgment%1:04:00::" source="wn" synset="judgment judgement judicial_decision " gloss="((law) the determination by a court of competent jurisdiction on matters submitted to it)"/>
+<sense id="judgment%1:04:02::" source="wn" synset="judgment judgement assessment " gloss="(the act of judging or assessing a person or situation or event; "they criticized my judgment of the contestants")"/>
+<sense id="judgment%1:07:00::" source="wn" synset="judgment judgement sound_judgment sound_judgement perspicacity " gloss="(the capacity to assess situations or circumstances shrewdly and to draw sound conclusions)"/>
+<sense id="judgment%1:09:00::" source="wn" synset="judgment judgement judging " gloss="(the cognitive process of reaching a decision or drawing conclusions)"/>
+<sense id="judgment%1:09:01::" source="wn" synset="sagacity sagaciousness judgment judgement discernment " gloss="(ability to make good judgments)"/>
+<sense id="judgment%1:09:04::" source="wn" synset="judgment judgement mind " gloss="(an opinion formed by judging something; "he was reluctant to make his judgment known"; "she changed her mind")"/>
+<sense id="judgment%1:10:00::" source="wn" synset="judgment judgement opinion " gloss="(the legal document stating the reasons for a judicial decision; "opinions are usually written by a single judge")"/>
+</lexelt>
+
+
+<lexelt item="lose.v">
+<sense id="2439901" source="ws" synset="lose misplace" gloss="to no longer possess; be unable to find; misplace. "I lost my overshoes"."/>
+<sense id="2439902" source="ws" synset="lose" gloss="to fail to keep possession of. "I just lost a quarter in this candy machine"."/>
+<sense id="2439903" source="ws" synset="lose" gloss="to fail to win. "They lost the contest"."/>
+<sense id="2439904" source="ws" synset="lose" gloss="to fail to maintain; be unable to keep. "He lost his health, and then his pride"."/>
+<sense id="2439905" source="ws" synset="lose" gloss="to suffer the loss of through death. "He lost his mother last week"."/>
+<sense id="2439906" source="ws" synset="lose squander waste" gloss="to fail to use or take advantage of; waste. "This argument is causing us to lose time"."/>
+<sense id="2439907" source="ws" synset="lose" gloss="to go astray from. "I lost my way"."/>
+<sense id="2439908" source="ws" synset="lose" gloss="to experience defeat or loss."/>
+<sense id="2439909" source="ws" synset="lose" gloss="to diminish the effectiveness in a particular way. "The tale loses in retelling"."/>
+</lexelt>
+
+
+<lexelt item="mean.v">
+<sense id="2555501" source="ws" synset="mean intend" gloss="to have as a goal or purpose; intend. "I mean to leave soon"."/>
+<sense id="2555502" source="ws" synset="mean" gloss="to intend to denote or express. "What I mean is that we are mortal"."/>
+<sense id="2555503" source="ws" synset="mean signify" gloss="of words, to signify. "The word "tomorrow" means the next day"."/>
+<sense id="2555504" source="ws" synset="mean destine intend" gloss="to intend for a particular purpose or end. "He was meant for the priesthood"."/>
+<sense id="2555505" source="ws" synset="mean" gloss="to cause as a result. "The fire means we are unlikely to return"."/>
+<sense id="2555506" source="ws" synset="mean" gloss="to have a specified degree of significance or importance. "She means little to them"."/>
+<sense id="2555507" source="ws" synset="mean" gloss="to have intentions or be disposed. "He means well, even though his acts don't show it"."/>
+</lexelt>
+
+
+<lexelt item="miss.v">
+<sense id="2644301" source="ws" synset="miss" gloss="to fail to hit, catch, reach, cross, or in any way touch or contact (a particular object). "He missed the ball" ; "I missed the plane"."/>
+<sense id="2644302" source="ws" synset="miss" gloss="to fail to see, hear, understand, or otherwise acknowledge. "He misses the point"."/>
+<sense id="2644303" source="ws" synset="miss" gloss="to fail to perform, attend, or otherwise experience. "I missed the concert"."/>
+<sense id="2644304" source="ws" synset="miss muff pass_up" gloss="to fail to achieve or attain. "They missed a good chance"."/>
+<sense id="2644305" source="ws" synset="miss espace avoid" gloss="to avoid, escape, or evade. "The car missed the tree"."/>
+<sense id="2644306" source="ws" synset="miss" gloss="to feel sad or lonely in the absence of. "She missed her friend"."/>
+<sense id="2644307" source="ws" synset="miss" gloss="to fail to hit, catch, or otherwise touch something such as a target, ball, or other object."/>
+<sense id="2644308" source="ws" synset="miss bomb fail flop" gloss="to fail; not succeed."/>
+</lexelt>
+
+
+<lexelt item="note.v">
+<sense id="2822011" source="ws" synset="note mark notice observe remark" gloss="to perceive or observe attentively."/>
+<sense id="2822012" source="ws" synset="note record register" gloss="to make a written record or reminder of."/>
+<sense id="2822013" source="ws" synset="note comment mention observe remark" gloss="to mention; remark. "She noted that she liked the wallpaper"."/>
+</lexelt>
+
+
+<lexelt item="operate.v">
+<sense id="2893201" source="ws" synset="operate function go run work" gloss="to function in a correct or effective manner, as a machine."/>
+<sense id="2893202" source="ws" synset="operate" gloss="to be in the process of action; carry on affairs."/>
+<sense id="2893203" source="ws" synset="operate" gloss="to perform a surgical procedure (usu. fol. by on)."/>
+<sense id="2893204" source="ws" synset="operate finagle machinate" gloss="(informal) to act with skillful deception so as to improve one's own situation."/>
+<sense id="2893205" source="ws" synset="operate run work" gloss="to control the functioning of a machine or the like."/>
+</lexelt>
+
+
+<lexelt item="organization.n">
+<sense id="organization%1:04:00::" source="wn" synset="organization organisation " gloss="(the act of organizing a business or business-related activity; "he was brought in to supervise the organization of a new department")"/>
+<sense id="organization%1:04:01::" source="wn" synset="organization organisation arrangement " gloss="(the activity or result of distributing or disposing persons or things properly or methodically; "in this new organization the container is much smaller")"/>
+<sense id="organization%1:04:02::" source="wn" synset="constitution establishment formation organization organisation " gloss="(the act of forming something; "the constitution of a PTA group"; "he still remembers the establishment of the hospital")"/>
+<sense id="organization%1:07:00::" source="wn" synset="organization organisation system " gloss="(an ordered manner; orderliness by virtue of being methodical and well organized; "his compulsive organization was not an endearing quality"; "we can't do it unless we establish some system around here")"/>
+<sense id="organization%1:09:00::" source="wn" synset="arrangement organization organisation system " gloss="(an organized structure for arranging or classifying; "he changed the arrangement of the topics"; "the facts were familiar but it was in the organization of them that he was original"; "he tried to understand their system of classification")"/>
+<sense id="organization%1:14:00::" source="wn" synset="organization organisation " gloss="(a group of people who work together)"/>
+<sense id="organization%1:14:01::" source="wn" synset="administration governance establishment brass organization organisation " gloss="(the persons (or committees or departments etc.) who make up a governing body and who administer something; "he claims that the present administration is corrupt"; "the governance of an association is responsible to its members"; "he quickly became recognized as a member of the establishment")"/>
+</lexelt>
+
+
+<lexelt item="paper.n">
+<sense id="paper%1:06:00::" source="wn" synset="newspaper paper " gloss="(a newspaper as a physical object: "when it began to rain he covered his head with a newspaper")"/>
+<sense id="paper%1:10:00::" source="wn" synset="paper " gloss="(medium for written communication; "the notion of an office running without paper is absurd")"/>
+<sense id="paper%1:10:01::" source="wn" synset="composition paper report theme " gloss="(an essay (especially one written as an assignment); "he got an A on his composition")"/>
+<sense id="paper%1:10:02::" source="wn" synset="paper " gloss="(a scholarly article describing the results of observations or stating hypotheses; "he has written many scientific papers")"/>
+<sense id="paper%1:10:03::" source="wn" synset="newspaper paper " gloss="(a daily or weekly publication on folded sheets; contains news and articles and advertisements; "he read his newspaper at breakfast")"/>
+<sense id="paper%1:14:00::" source="wn" synset="newspaper paper newspaper_publisher " gloss="(a business firm that publishes newspapers; "Murdoch owns many newspapers")"/>
+<sense id="paper%1:27:00::" source="wn" synset="paper " gloss="(a material made of cellulose pulp derived mainly from wood or rags or certain grasses)"/>
+</lexelt>
+
+
+<lexelt item="party.n">
+<sense id="party%1:11:00::" source="wn" synset="party " gloss="(an occasion on which people can assemble for social interaction and entertainment; "he planned a party to celebrate Bastille Day")"/>
+<sense id="party%1:14:00::" source="wn" synset="party " gloss="(a group of people gathered together for pleasure; "she joined the party after dinner")"/>
+<sense id="party%1:14:01::" source="wn" synset="party political_party " gloss="(an organization to gain political power; "in 1992 Perot tried to organize a third party at the national level")"/>
+<sense id="party%1:14:02::" source="wn" synset="party company " gloss="(a band of people associated temporarily in some activity; "they organized a party to search for food"; "the company of cooks walked into the kitchen")"/>
+<sense id="party%1:18:00::" source="wn" synset="party " gloss="(a person involved in legal proceedings; "the party of the first part")"/>
+</lexelt>
+
+
+<lexelt item="performance.n">
+<sense id="performance%1:04:00::" source="wn" synset="performance execution carrying_out carrying_into_action " gloss="(the act of performing; of doing something successfully; using knowledge as distinguished from merely possessing it; "they criticised his performance as mayor"; "experience generally improves performance")"/>
+<sense id="performance%1:04:01::" source="wn" synset="performance " gloss="(the act of presenting a play or a piece of music or other entertainment; "we congratulated him on his performance at the rehearsal"; "an inspired performance of Mozart's C minor concerto")"/>
+<sense id="performance%1:04:03::" source="wn" synset="performance " gloss="(any recognized accomplishment; "they admired his performance under stress"; "when Roger Maris powered four home runs in one game his performance merits awe")"/>
+<sense id="performance%1:10:00::" source="wn" synset="performance public_presentation " gloss="(a dramatic or musical entertainment; "they listened to ten different performances"; "the play ran for 100 performances"; "the frequent performances of the symphony testify to its popularity")"/>
+<sense id="performance%1:22:00::" source="wn" synset="operation functioning performance " gloss="(process or manner of functioning or operating; "the power of its engine determine its operation"; "the plane's operation in high winds"; "they compared the cooking performance of each oven"; "the jet's performance conformed to high standards")"/>
+</lexelt>
+
+
+<lexelt item="plan.n">
+<sense id="plan%1:06:00::" source="wn" synset="plan architectural_plan " gloss="(scale drawing of a structure; "the plans for City Hall were on file")"/>
+<sense id="plan%1:09:00::" source="wn" synset="plan program programme " gloss="(a series of steps to be carried out or goals to be accomplished; "they drew up a six-step plan"; "they discussed plans for a new bond issue")"/>
+<sense id="plan%1:09:01::" source="wn" synset="design plan " gloss="(an arrangement scheme; "the awkward design of the keyboard made operation difficult"; "it was an excellent design for living"; "a plan for seating guests")"/>
+</lexelt>
+
+
+<lexelt item="play.v">
+<sense id="3165210" source="ws" synset="play act enact perform personate portray" gloss="to act the part of in a drama. "He played Falstaff"."/>
+<sense id="3165211" source="ws" synset="play act affect feign" gloss="to act (a role) in real life. "She is playing the injured wife"."/>
+<sense id="3165212" source="ws" synset="play" gloss="to perform in (a place or places). "Our band played the midwest"."/>
+<sense id="3165213" source="ws" synset="play compete_in participate_in" gloss="to take part in (a game or contest). "Let's play soccer"."/>
+<sense id="3165214" source="ws" synset="play" gloss="to make music with (an instrument)."/>
+<sense id="3165215" source="ws" synset="play exploit use" gloss="to manipulate for one's advantage (usu. fol. by off). "She played off her husband against her father"."/>
+<sense id="3165216" source="ws" synset="play" gloss="to control (a hooked fish)."/>
+<sense id="3165217" source="ws" synset="play disport sport" gloss="to engage in recreation; have fun."/>
+<sense id="3165218" source="ws" synset="play compete sport" gloss="to engage in a sport or game"/>
+<sense id="3165219" source="ws" synset="play conform" gloss="to behave in a specified way. "He doesn't play fair"."/>
+<sense id="3165220" source="ws" synset="play" gloss="to make music with an instrument."/>
+<sense id="3165221" source="ws" synset="play dally trifle try" gloss="to make a toy of another; use another without due regard for his or her feelings. "He is simply playing with me"."/>
+</lexelt>
+
+
+<lexelt item="produce.v">
+<sense id="3288301" source="ws" synset="produce generate give make yield" gloss="to bring into being; yield."/>
+<sense id="3288302" source="ws" synset="produce make manufacture" gloss="to manufacture."/>
+<sense id="3288303" source="ws" synset="produce bear breed deliver" gloss="to give birth to."/>
+<sense id="3288304" source="ws" synset="produce expose manifest present" gloss="to bring forward into view or notice; present. "His reluctance to produce his partner's name"."/>
+<sense id="3288305" source="ws" synset="produce" gloss="to organize and present (a film, play, concert, or the like) for public entertainment."/>
+<sense id="3288306" source="ws" synset="produce yield" gloss="to cause, create, or yield results, esp. the usual or expected results. "The artist couldn't produce without encouragement"."/>
+</lexelt>
+
+
+<lexelt item="provide.v">
+<sense id="3313901" source="ws" synset="provide furnish purvey serve supply" gloss="to supply; furnish. "I'll provide them with food"."/>
+<sense id="3313902" source="ws" synset="provide offer proffer tender" gloss="to make available for use; afford. "The group provides an important service"."/>
+<sense id="3313903" source="ws" synset="provide" gloss="to arrange or specify beforehand. "This law provides that speeders will be fined"."/>
+<sense id="3313904" source="ws" synset="provide prepare stock_up store_up" gloss="to take precautionary action (usu. fol. by for or against). "The village provided for a harsh winter"."/>
+<sense id="3313905" source="ws" synset="provide attend deliver minister" gloss="to supply necessities such as money (often fol. by for). "She provides for her children"."/>
+<sense id="3313906" source="ws" synset="provide perform yield" gloss="to make an arrangement, agreement, or condition. "The system provides for free medical care"."/>
+</lexelt>
+
+
+<lexelt item="receive.v">
+<sense id="3434801" source="ws" synset="receive get" gloss="to get or take (something) that has been sent or offered."/>
+<sense id="3434802" source="ws" synset="receive" gloss="to accept (something) that has been bestowed. "He received his degree last year"."/>
+<sense id="3434803" source="ws" synset="receive welcome" gloss="to welcome. "They receive guests often" ; "We received him as a club member"."/>
+<sense id="3434804" source="ws" synset="receive sustain undergo" gloss="to undergo; experience. "She received a serious injury"."/>
+<sense id="3434805" source="ws" synset="receive find_out hear" gloss="to find out about. "We received the news too late"."/>
+<sense id="3434806" source="ws" synset="receive" gloss="to accept or get something."/>
+<sense id="3434807" source="ws" synset="receive entertain" gloss="to extend hospitality to guests."/>
+<sense id="3434808" source="ws" synset="receive" gloss="to pick up signals, as on a radio or television."/>
+<sense id="3434809" source="ws" synset="receive" gloss="in football, to play in the position of one designated to catch a forward pass."/>
+</lexelt>
+
+
+<lexelt item="remain.v">
+<sense id="3477801" source="ws" synset="remain abide dwell continue last persist stay" gloss="to continue without a change in quality or state."/>
+<sense id="3477802" source="ws" synset="remain abide linger stay tarry" gloss="to stay or be left in the same place after others have gone."/>
+<sense id="3477803" source="ws" synset="remain survive" gloss="to be left, as still to be done. "Who will win remains to be seen"."/>
+</lexelt>
+
+<lexelt item="rule.v">
+<sense id="3597906" source="ws" synset="rule govern" gloss="to exert authority over; govern. "He rules the country"."/>
+<sense id="3597907" source="ws" synset="rule dominate" gloss="to have superiority over, within a particular field or area. "She rules the field in racing"."/>
+<sense id="3597908" source="ws" synset="rule" gloss="to make evenly spaced parallel lines on (a piece of paper or other surface)."/>
+<sense id="3597910" source="ws" synset="rule find" gloss="to make a specific decision or ruling, as in a court of law."/>
+<sense id="3597911" source="ws" synset="rule dominate predominate prevail" gloss="to be pervasive or dominant. "Chaos rules"."/>
+</lexelt>
+
+
+<lexelt item="shelter.n">
+<sense id="shelter%1:06:00::" source="wn" synset="shelter " gloss="(a structure that provides privacy and protection from danger)"/>
+<sense id="shelter%1:06:01::" source="wn" synset="shelter " gloss="(protective covering that provides protection from the weather)"/>
+<sense id="shelter%1:21:00::" source="wn" synset="tax_shelter shelter " gloss="(a way of organizing business to reduce the taxes it must pay)"/>
+<sense id="shelter%1:26:00::" source="wn" synset="protection shelter " gloss="(the condition of being protected; "they were huddled together for protection"; "he enjoyed a sense of peace and protection in his new home")"/>
+</lexelt>
+
+
+<lexelt item="simple.a">
+<sense id="simple%3:00:01::" source="wn" synset="simple unsubdivided " gloss="((botany) of leaf shapes; of leaves having no divisions or subdivisions)"/>
+<sense id="simple%3:00:02::" source="wn" synset="simple " gloss="(having few parts; not complex or complicated or involved; "a simple problem"; "simple mechanisms"; "a simple design"; "a simple substance")"/>
+<sense id="simple%5:00:00:easy:01" source="wn" synset="elementary simple uncomplicated unproblematic " gloss="(easy and not involved or complicated; "an elementary problem in statistics"; "elementary, my dear Watson"; "a simple game"; "found an uncomplicated solution to the problem")"/>
+<sense id="simple%5:00:00:naive:00" source="wn" synset="childlike wide-eyed dewey-eyed simple " gloss="(exhibiting childlike simplicity and credulity; "childlike trust"; "dewey-eyed innocence"; "simple courtesy")"/>
+<sense id="simple%5:00:00:plain:01" source="wn" synset="simple " gloss="(not elaborate in style; unornamented; "a simple country schoolhouse"; "her black dress--simple to austerity")"/>
+<sense id="simple%5:00:00:retarded:00" source="wn" synset="dim-witted half-witted simple simple-minded " gloss="(lacking mental capacity and devoid of subtlety)"/>
+<sense id="simple%5:00:02:plain:01" source="wn" synset="bare(a) mere(a) simple(a) " gloss="(apart from anything else; without additions or modifications; "only the bare facts"; "shocked by the mere idea"; "the simple passage of time was enough"; "the simple truth")"/>
+</lexelt>
+
+
+<lexelt item="smell.v">
+<sense id="3893501" source="ws" synset="smell nose scent" gloss="to perceive the odor of by means of the nose."/>
+<sense id="3893502" source="ws" synset="smell sniff snuff" gloss="to examine by using the sense of smell. "She smelled the soup to see if it was ready"."/>
+<sense id="3893503" source="ws" synset="smell sense discern detect sniff" gloss="to detect; discern. "We smelled dishonesty in his conduct"."/>
+<sense id="3893505" source="ws" synset="smell" gloss="to have or give off an odor or fragrance."/>
+<sense id="3893507" source="ws" synset="smell reek stink" gloss="to have or give off an unpleasant odor; stink."/>
+<sense id="3893508" source="ws" synset="smell" gloss="to have a lingering trace (usu. fol. by of). "The room smelled of smoke"."/>
+<sense id="3893509" source="ws" synset="smell sniff" gloss="to investigate (usu. fol. by about or around). "Let's smell around for some evidence"."/>
+</lexelt>
+
+
+<lexelt item="solid.a">
+<sense id="solid%3:00:01::" source="wn" synset="solid " gloss="(of definite shape and volume; firm; neither liquid nor gaseous; "ice is water in the solid state")"/>
+<sense id="solid%3:00:02::" source="wn" synset="solid " gloss="(entirely of one substance with no holes inside; "solid silver"; "a solid block of wood")"/>
+<sense id="solid%5:00:00:cubic:00" source="wn" synset="solid " gloss="(having three dimensions; "a solid object")"/>
+<sense id="solid%5:00:00:frozen:00" source="wn" synset="solid " gloss="(turned into or covered with thick ice; "a brook frozen solid")"/>
+<sense id="solid%5:00:00:good:01" source="wn" synset="solid " gloss="(of good substantial quality; "solid comfort"; "a solid base hit")"/>
+<sense id="solid%5:00:00:hard:01" source="wn" synset="firm solid " gloss="(not soft or yielding to pressure; "a firm mattress"; "the snow was firm underfoot"; "solid ground")"/>
+<sense id="solid%5:00:00:homogeneous:00" source="wn" synset="solid " gloss="(of one substance or character throughout; "solid gold"; "a solid color"; "carved out of solid rock")"/>
+<sense id="solid%5:00:00:honorable:00" source="wn" synset="noble solid upstanding worthy " gloss="(having high moral qualities; "a noble spirit"; "a solid citizen"; "an upstanding man"; "a worthy successor")"/>
+<sense id="solid%5:00:00:opaque:00" source="wn" synset="solid " gloss="(incapable of being seen through; "solid blackness")"/>
+<sense id="solid%5:00:00:plain:02" source="wn" synset="solid self-colored self-coloured " gloss="(entirely of a single color throughout; "a solid fabric")"/>
+<sense id="solid%5:00:00:sound:01" source="wn" synset="solid strong substantial " gloss="(of good quality and condition; solidly built; "a solid foundation"; "several substantial timber buildings")"/>
+<sense id="solid%5:00:00:unbroken:02" source="wn" synset="solid " gloss="(uninterrupted in space; having no gaps or breaks; "a solid line across the page"; "solid sheets of water")"/>
+<sense id="solid%5:00:00:undiversified:00" source="wn" synset="solid unanimous " gloss="(acting together as a single undiversified whole; "a solid voting bloc")"/>
+<sense id="solid%5:00:00:wholesome:00" source="wn" synset="hearty satisfying solid substantial " gloss="(providing abundant nourishment; "a hearty meal"; "good solid food"; "ate a substantial breakfast")"/>
+</lexelt>
+
+
+<lexelt item="sort.n">
+<sense id="sort%1:07:00::" source="wn" synset="sort " gloss="(an approximate definition or example; "she wore a sort of magenta dress"; "she served a creamy sort of dessert thing")"/>
+<sense id="sort%1:09:00::" source="wn" synset="kind sort form variety " gloss="(a category of things distinguished by some common characteristic or quality; "sculpture is a form of art"; "what kinds of desserts are there?")"/>
+<sense id="sort%1:18:00::" source="wn" synset="sort " gloss="(a person of a particular character or nature; "what sort of person is he?"; "he's a good sort")"/>
+<sense id="sort%1:22:00::" source="wn" synset="sort sorting " gloss="(an operation that segregates items into groups according to a specified criterion; "the bottleneck in mail delivery it the process of sorting")"/>
+</lexelt>
+
+
+<lexelt item="source.n">
+<sense id="source%1:06:00::" source="wn" synset="source " gloss="(a facility where something is available)"/>
+<sense id="source%1:09:00::" source="wn" synset="source seed germ " gloss="(anything that provides inspiration for later work)"/>
+<sense id="source%1:10:00::" source="wn" synset="source " gloss="(a document (or organization) from which information is obtained; "the reporter had two sources for the story")"/>
+<sense id="source%1:10:01::" source="wn" synset="reference source " gloss="(a publication (or a passage from a publication) that is referred to; "he carried an armful of references back to his desk"; "he spent hours looking for the source of that quotation")"/>
+<sense id="source%1:15:00::" source="wn" synset="beginning origin root rootage source " gloss="(the place where something begins, where it springs into being; "the Italian beginning of the Renaissance"; "Jupiter was the origin of the radiation"; "Pittsburgh is the source of the Ohio River"; "communism's Russian root")"/>
+<sense id="source%1:18:00::" source="wn" synset="generator source author " gloss="(someone who originates or causes or initiates something; "he was the generator of several complaints")"/>
+<sense id="source%1:18:01::" source="wn" synset="informant source " gloss="(a person who supplies information)"/>
+</lexelt>
+
+
+<lexelt item="suspend.v">
+<sense id="4155301" source="ws" synset="suspend hang" gloss="to hang (something) from a higher position."/>
+<sense id="4155302" source="ws" synset="suspend intermit interrupt" gloss="to cause to stop for a period of time. "The game was suspended until they cleared the floor"."/>
+<sense id="4155303" source="ws" synset="suspend defer delay postpone" gloss="to put off till later; defer. "We will suspend judgment on the case"."/>
+<sense id="4155304" source="ws" synset="suspend" gloss="to cause to be temporarily ineffective. "Can we suspend the usual rules"?"/>
+<sense id="4155305" source="ws" synset="suspend expel" gloss="to exclude for disciplinary reasons. "The principal suspended John from school for fighting"."/>
+<sense id="4155306" source="ws" synset="suspend" gloss="to cause to remain motionless, undissolved, or unattached in a fluid medium such as air or water."/>
+<sense id="4155307" source="ws" synset="suspend intermit pause" gloss="to cease activity for a period of time."/>
+</lexelt>
+
+
+<lexelt item="talk.v">
+<sense id="4198501" source="ws" synset="talk converse speak" gloss="to communicate through spoken words; discuss. "We talked about literary theory" ; "Can the baby talk yet"?"/>
+<sense id="4198502" source="ws" synset="talk gossip whisper" gloss="to gossip. "The whole town is talking"."/>
+<sense id="4198503" source="ws" synset="talk chat chitchat gab palaver" gloss="to chatter idly or incessantly."/>
+<sense id="4198504" source="ws" synset="talk declaim discourse lecture speak" gloss="to give a speech; lecture."/>
+<sense id="4198505" source="ws" synset="talk tell" gloss="to disclose confidential or secret information. "Even under torture he refused to talk"."/>
+<sense id="4198506" source="ws" synset="talk articulate pronounce say speak tell utter" gloss="to articulate in words."/>
+<sense id="4198507" source="ws" synset="talk speak" gloss="to speak (a particular language or dialect)."/>
+<sense id="4198508" source="ws" synset="talk address discuss" gloss="to discuss. "They talked finance at the meeting"."/>
+<sense id="4198509" source="ws" synset="talk" gloss="to influence; convince. "He talked her into buying a car"."/>
+</lexelt>
+
+
+<lexelt item="treat.v">
+<sense id="4380101" source="ws" synset="treat relate_to" gloss="to behave toward (someone) in a particular way."/>
+<sense id="4380102" source="ws" synset="treat deal_with handle" gloss="to deal with or represent in a particular way."/>
+<sense id="4380103" source="ws" synset="treat address discuss" gloss="to discuss in speech or writing. "He treated several themes in his talk"."/>
+<sense id="4380104" source="ws" synset="treat cure heal relieve remedy" gloss="to relieve or cure (a disease or illness). "She treated her cold with vitamins"."/>
+<sense id="4380105" source="ws" synset="treat" gloss="to give medical attention to. "The doctor treats twenty patients a day"."/>
+<sense id="4380106" source="ws" synset="treat" gloss="to offer (food, drink, or entertainment) to at one's own expense."/>
+<sense id="4380107" source="ws" synset="treat" gloss="to act upon in order to achieve a desired result. "He treated the wood with varnish"."/>
+<sense id="4380108" source="ws" synset="treat deal" gloss="to deal with a subject, topic, or theme in speech or writing (often fol. by of). "an essay that treats of politics"."/>
+<sense id="4380109" source="ws" synset="treat buy pay" gloss="to take responsibility for the cost of providing food, drink, or entertainment to another."/>
+</lexelt>
+
+
+<lexelt item="use.v">
+<sense id="4530701" source="ws" synset="use employ utilize" gloss="to bring into service; employ, esp. habitually. "I use a computer to do my homework"."/>
+<sense id="4530702" source="ws" synset="use consume expend spend" gloss="to expend; consume. "He used his last dollar to buy some bread"."/>
+<sense id="4530703" source="ws" synset="use exploit take_advantage_of" gloss="to employ for selfish motives; exploit. "He used his friends to get what he wanted"."/>
+<sense id="4530704" source="ws" synset="use take" gloss="to partake of (drugs). "Using heroin made him very sick"."/>
+<sense id="4530705" source="ws" synset="use" gloss="used in the past tense in order to show a former habitual practice or state (fol. by to). "We used to go shopping every Saturday"."/>
+</lexelt>
+
+
+<lexelt item="wash.v">
+<sense id="4636101" source="ws" synset="wash clean" gloss="to make clean by immersing in or applying water or other liquid, esp. if soap is also used. "He washed all the cups"."/>
+<sense id="4636102" source="ws" synset="wash rinse" gloss="to remove (dirt or other matter) by immersing in water or other liquid, esp. if soap is also used. "She washed the stain out of her shirt"."/>
+<sense id="4636103" source="ws" synset="wash carry" gloss="to transport by means of a moving liquid, esp. water. "The waves wash shells onto the beach"."/>
+<sense id="4636104" source="ws" synset="wash erode wear" gloss="to erode or destroy by the action of moving water. "Rain washed the snowman"."/>
+<sense id="4636105" source="ws" synset="wash moisten wet" gloss="to make wet; moisten; drench."/>
+<sense id="4636106" source="ws" synset="wash absolve purify" gloss="to rid of guilt or impurity."/>
+<sense id="4636107" source="ws" synset="wash bathe shower" gloss="to clean or bathe oneself."/>
+<sense id="4636108" source="ws" synset="wash clean" gloss="to clean something in or with water or other liquid."/>
+<sense id="4636109" source="ws" synset="wash" gloss="to be capable of being cleaned in or with water without shrinking or fading. "This dress won't wash well"."/>
+<sense id="4636110" source="ws" synset="wash float drift" gloss="to be carried by the action of moving water. "A pail washed up on the beach"."/>
+<sense id="4636111" source="ws" synset="wash erode wear" gloss="to be removed or worn down by the action of moving water (often fol. by away). "The paint on the road washed away in the rain"."/>
+<sense id="4636112" source="ws" synset="wash flow pour rush stream" gloss="to flow over; rush against. "The waves washed over the dock"."/>
+</lexelt>
+
+
+<lexelt item="watch.v">
+<sense id="4640501" source="ws" synset="watch look regard" gloss="to look closely or with uninterrupted attention."/>
+<sense id="4640502" source="ws" synset="watch wait" gloss="to look or wait in alert expectation (usu. fol. by for). "Watch for our spring sales"."/>
+<sense id="4640503" source="ws" synset="watch" gloss="to keep a vigil, esp. through the night."/>
+<sense id="4640504" source="ws" synset="watch" gloss="to be careful or alert."/>
+<sense id="4640507" source="ws" synset="watch look lookt_at stare regard" gloss="to look at closely or with uninterrupted attention."/>
+<sense id="4640508" source="ws" synset="watch guard tend attend" gloss="to guard or tend attentively. "Grandmother is watching the children"."/>
+<sense id="4640509" source="ws" synset="watch attend follow keep_track_of" gloss="to stay informed about or aware of. "He watches the news of the world"."/>
+</lexelt>
+
+
+<lexelt item="win.v">
+<sense id="4711401" source="ws" synset="win conquer prevail triumph" gloss="to be victorious in a competition."/>
+<sense id="4711402" source="ws" synset="win overcome succeed triumph" gloss="to gain success through effort or struggle."/>
+<sense id="4711403" source="ws" synset="win gain" gloss="to gain victory in. "He won the race"."/>
+<sense id="4711404" source="ws" synset="win achieve acquire attain earn get procure" gloss="to obtain through effort. "It took years to win his freedom"."/>
+<sense id="4711405" source="ws" synset="win capture conquer" gloss="to capture in battle. "The army won the town"."/>
+<sense id="4711406" source="ws" synset="win acquire gain" gloss="to gain (loyalty, sympathy, affection, or the like). "He won her love"."/>
+<sense id="4711407" source="ws" synset="win bring_around" gloss="to succeed in obtaining the support of. "His speech won many voters"."/>
+</lexelt>
+
+
+<lexelt item="write.v">
+<sense id="4753401" source="ws" synset="write" gloss="to form (letters, words, symbols, or characters) on a surface with a pen, pencil, typewriter, or other instrument. "Write your name on the paper"."/>
+<sense id="4753402" source="ws" synset="write" gloss="to express or record by writing. "She wrote her ideas"."/>
+<sense id="4753403" source="ws" synset="write author compose" gloss="to author or compose. "She wrote that song"."/>
+<sense id="4753404" source="ws" synset="write pen" gloss="to fill in the spaces of or cover with writing. "He wrote six pages"."/>
+<sense id="4753405" source="ws" synset="write evidence exhibit manifest" gloss="to leave the evidence or signs of. "Guilt is written all over his face"."/>
+<sense id="4753406" source="ws" synset="write" gloss="to form letters, words, symbols, or characters on a surface with a pen, pencil, typewriter, or other instrument."/>
+<sense id="4753407" source="ws" synset="write compose" gloss="to create written material as a job or profession. "She writes and he sells shoes""/>
+<sense id="4753408" source="ws" synset="write" gloss="to communicate by sending letters. "Write to me soon"."/>
+</lexelt>
