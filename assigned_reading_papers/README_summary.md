@@ -6,7 +6,7 @@
 
 [Paper #3 Efficient Estimation of word Representations in Vector Space, Mikolov et al.](https://arxiv.org/pdf/1301.3781.pdf)
 
-[Paper #4 Shared common ground influences information density in microblog texts] (http://langcog.stanford.edu/papers/DF-naacl2015.pdf)
+[Paper #4 Shared common ground influences information density in microblog texts](http://langcog.stanford.edu/papers/DF-naacl2015.pdf)
 
 [Paper #5 Closing the Gap:
 Domain Adaptation from Explicit to Implicit Discourse Relations](http://aclweb.org/anthology/D/D15/D15-1264.pdf)
